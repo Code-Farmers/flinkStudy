@@ -1,0 +1,5 @@
+1,tom,m,11
+2,lucy,f,16
+3,kate,f,26
+4,bob,m,22
+5,peter,m,19

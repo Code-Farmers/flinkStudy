@@ -1,0 +1,11 @@
+1,tom,m,11
+2,lucy,f,16
+3,kate,f,26
+4,bob,m,22
+5,peter,m,19
+6,jack,m,17
+7,mary,f,18
+8,alan,f,15
+9,jenny,m,12
+10,jaina,m,20
+11,mike,m,27
